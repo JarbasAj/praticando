@@ -9,6 +9,10 @@
     font-family: 'Josefin Sans', sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .background {
     background-image: url(../imagens/luabgpreta.jpeg);
     background-size: cover;
@@ -26,7 +30,7 @@ nav h1 {
 
 }
 
-span {
+.aj {
     color: crimson;
     font-size: 50px;
     font: bolder;
@@ -68,7 +72,7 @@ nav ul li a:hover {
     margin-top: 5%;
 }
 
-  h1 {
+  .texto h1 {
     font-weight: bolder;
     font-size: 30px;
     text-align: center;
@@ -84,6 +88,45 @@ p {
     line-height: 1.6em;
     margin-left: 25px;
 }
+
+.bgabout {
+    background-color: rgb(22, 21, 21);;
+    width: 100%;
+    height: 100vh;
+}
+
+.img {
+    height: auto;
+    width: 450px;
+    margin-left: 9%;
+    padding-top: 100px;
+}
+
+.aboutme {
+   
+   color: aliceblue;
+    margin-left: 45%;
+    margin-top: -30%
+}
+
+.aboutme p {
+    width: 550px;
+}
+
+.aboutme h1 {
+    font-size: 35px;
+    text-align: center;
+}
+
+.aboutme h2 {
+    text-align: center;
+}
+
+ .aboutme span {
+    color: crimson;
+ }
+    
+
 
 
 
