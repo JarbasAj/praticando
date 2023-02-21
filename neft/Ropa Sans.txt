@@ -1,0 +1,10 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Ropa+Sans&display=swap');
+</style>
+
+
+cor 
+#403873
+#666CD9
+#8286D9
+#F2F2F2
