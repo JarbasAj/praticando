@@ -33,6 +33,11 @@ img {
     margin-left: 40px;
 }
 
+#logo {
+    height: 134px;
+    margin-left: 40px;
+}
+
 nav {
     margin-right: 50px;
 }
@@ -70,6 +75,7 @@ section {
     padding-top: 50px;
     height: 550px;
     width: 550px;
+    font-family: Ropa Sans, Arial, Helvetica, sans-serif;
 }
 
 .descricao  h1 {

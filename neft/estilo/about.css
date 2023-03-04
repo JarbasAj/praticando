@@ -28,7 +28,12 @@ header {
 
 img {
     height: 134px;
-    margin-left: 40px;
+    margin-left: 0px;
+}
+
+#logo {
+    height: 134px;
+    margin-left: 0px;
 }
 
 nav {
