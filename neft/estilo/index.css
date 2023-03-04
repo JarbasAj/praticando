@@ -23,9 +23,10 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
-    
+    align-items: center;       
 }
+
+
 
 img {
     height: 134px;
@@ -45,7 +46,7 @@ a {
     text-decoration: none;
 }
 
-main {
+section {
     background-color: var(--cor04);
     height: 86vh;
     display: flex;
@@ -98,25 +99,7 @@ span {
     font-size: 20px;
 }
 
-footer {
-    display: flex;
-    flex-direction: column;
-    height: auto;
-}
 
-.rodape {
-    background-color: #CCCCD9;
-    font-family: Ropa Sans, Arial, Helvetica, sans-serif;
-    
-}
-
-.rodape img {
-    margin-left: 700px;
-}
-
-#copy {
-    margin-left: 700px;
-}
 
 
 

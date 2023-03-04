@@ -1,0 +1,12 @@
+    <footer>
+        <div class="rodape">
+            <img src="imagens/logo_transparent.png" alt="Neft Construtora">
+            <div id="copy">
+                <h1>Neft Construtora LTDA</h1>
+                <p>
+                    Copyright &copy; 2023 | Neft Construtora LTDA. <br> Todos os direitos reservados. <br> CNPJ: 74.137.719/0001-05 <br> Londrina - Paraná
+                </p>
+            </div>
+        </div>  
+
+    </footer>

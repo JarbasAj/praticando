@@ -15,17 +15,16 @@
     font-family: Ropa Sans, Arial, Helvetica, sans-serif;
 }
 
-
-
 header {
     background-image: linear-gradient(to right, var(--cor04), var(--cor01));
     height: 100px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
-    
+    align-items: center;       
 }
+
+
 
 img {
     height: 134px;
@@ -44,4 +43,3 @@ a {
     font-size: 20px;
     text-decoration: none;
 }
-
